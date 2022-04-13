@@ -1,0 +1,32 @@
+{
+	"storyName": "Rainbow Dash Tylenol",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cloudsdale",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Rainbow Tylenol",
+			"rd",
+			[
+				29,
+				152,
+				212
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Rainbow Dash Tylenol"
+}
